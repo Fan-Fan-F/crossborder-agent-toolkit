@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crossborder-agent-toolkit"
+version = "1.0.0"
+description = "Production-grade executable cross-border ecommerce agent toolkit for pricing, listing compliance, and ad funnel optimization."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Cross-Border Agent Toolkit Contributors" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Office/Business :: Financial :: Point-Of-Sale",
+]
+
+[project.scripts]
+crossborder-toolkit = "crossborder_toolkit.cli:main"

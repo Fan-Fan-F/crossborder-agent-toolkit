@@ -1,0 +1,6 @@
+ad_id,campaign_name,impressions,clicks,add_to_cart,orders,spend,revenue
+kw_patinete_eletrico_adulto,Search_Exact,3500,180,36,8,45.00,320.00
+kw_patinete_dobravel_500w,Search_Phrase,2200,90,14,3,28.50,120.00
+kw_scooter_eletrica_barata,Search_Broad,4000,45,4,0,38.00,0.00
+kw_patinete_rapido_pro,Search_Broad,1800,95,6,1,55.00,40.00
+kw_mobilidade_urbana_geral,Search_Auto,5000,30,2,0,15.00,0.00

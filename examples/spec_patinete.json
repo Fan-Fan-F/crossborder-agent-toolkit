@@ -1,0 +1,9 @@
+{
+  "potencia": "500W",
+  "bateria": "10.4Ah",
+  "autonomia": "30km",
+  "velocidade_maxima": "25km/h",
+  "peso_maximo": "120kg",
+  "voltagem": "36V",
+  "tempo_carregamento": "5h"
+}
